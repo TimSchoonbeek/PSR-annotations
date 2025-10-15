@@ -4,7 +4,7 @@
 
 This repository provides:
 - Annotator tools to help you efficiently annotate and convert video sequences into PSR step labels for your own datasets.
-- A concise overview of **MECCANO states** (what each part/state index means) and **PSR** (Procedure Step Recognition). These are formatted to mirror [**IndustReal**](https://timschoonbeek.github.io/industreal.html).
+- A concise overview of **MECCANO states** (what each part/state index means) and **PSR** (Procedure Step Recognition). These are formatted to mirror [**IndustReal PSR Annotations**](https://timschoonbeek.github.io/industreal.html).
 - **ASD** (Assembly State Detection) annotations for MECCANO.
 
 ---
