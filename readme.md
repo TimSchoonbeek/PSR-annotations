@@ -135,4 +135,16 @@ A minimal example schema:
 
 ## Citation & Acknowledgements
 
-If you use these annotations or tools, please cite the corresponding MECCANO/IndustReal works when applicable.
+If you use these annotations or tools, please cite the corresponding article:
+
+```bibtex
+@misc{schoonbeek2025learning,
+  title={Learning to Recognize Correctly Completed Procedure Steps in Egocentric Assembly Videos through Spatio-Temporal Modeling},
+  author={Tim J. Schoonbeek and Shao-Hsuan Hung and Dan Lehman and Hans Onvlee and Jacek Kustra and Peter H. N. de With and Fons van der Sommen},
+  year={2025},
+  eprint={2510.12385},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2510.12385},
+}
+
